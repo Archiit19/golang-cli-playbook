@@ -1,0 +1,5 @@
+package module6 // import "."
+
+func FunctionForModule6GoDoc()
+    FunctionForModule6GoDoc provides documentation for the module 6 function.
+
