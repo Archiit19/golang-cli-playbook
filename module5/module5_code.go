@@ -1,4 +1,4 @@
-package module5
+package module5 // import "golang.org/x/tools/cmd/goimports"
 
 import (
 	"fmt"
